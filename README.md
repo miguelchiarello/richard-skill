@@ -6,7 +6,7 @@ A fonte é a palestra “Os erros do seu Onboarding — com Richard Designer”,
 
 A aba “Transcrição” do próprio biip.club só tinha trechos curtos em destaque, não a palestra inteira. O vídeo foi baixado da página de gravação exclusiva para membros e transcrito localmente com o faster-whisper (modelo `small`, idioma `pt`). A transcrição tem 2.783 segmentos e cobre de 00:00 a 1:47:08.
 
-Essa transcrição completa foi passada ao Claude no claude.ai (Opus 5.5, High), na conta do Miguel, com a instrução de destilar um `SKILL.md` reutilizável e de marcar as inferências. O Claude produziu esta skill a partir dessa transcrição.
+Essa transcrição completa foi passada ao Claude no claude.ai (Opus 5.5, High), com a instrução de destilar um `SKILL.md` reutilizável e de marcar as inferências. O Claude produziu esta skill a partir dessa transcrição.
 
 A gravação bruta e a transcrição completa não estão neste repositório. Elas vêm de uma sessão exclusiva para membros da comunidade e não devem ser republicadas.
 
